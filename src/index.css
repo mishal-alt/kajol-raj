@@ -910,7 +910,8 @@ a{color:inherit; text-decoration:none;}
   color: var(--gold);
   font-size: clamp(0.9rem,2.6vw,1.2rem);
 }
-.map-overlay-card{ bottom: 5%; }
+/* invisible tap target over the "View Location in Maps" button painted into map.jpg */
+.map-hit{ position:absolute; left:20%; width:60%; top:77.8%; height:4.8%; z-index:2; display:block; }
 
 #footer{
   background: var(--beige);
