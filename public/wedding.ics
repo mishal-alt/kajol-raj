@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zetron Tech//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:raj-kajol-wedding-20261202@invitation
+DTSTAMP:20261107T000000Z
+DTSTART:20261202T133000Z
+DTEND:20261202T173000Z
+SUMMARY:Raj & Kajol Wedding
+LOCATION:Shiv Angan Banquet & Resort\, Ring Road Phase 1\, Dandupur\, Varan
+ asi
+DESCRIPTION:Wedding celebration of Raj & Kajol.\n7:00 PM onwards.\nMap: htt
+ ps://www.google.com/maps/place/Shiv+Aangan+Banquet+%26+Resorts/@25.3892774
+ ,82.962706,17z/data=!3m1!4b1!4m6!3m5!1s0x398e2dba93fdb0ad:0xc20400110c7864
+ d8!8m2!3d25.3892774!4d82.962706!16s%2Fg%2F11z1w7kctv
+END:VEVENT
+END:VCALENDAR
